@@ -125,8 +125,9 @@ footer {
 
 .full-article img{
     float: right;
-    margin: 50px;
+    margin: 10px;
     border-radius: 10px;
+    width: 50%;
 }
 
 
@@ -148,7 +149,7 @@ footer a{
 
     .full-article img{
         width: 100%;
-        margin: 0;
+        margin-bottom: 1px;
 
     }
 }
