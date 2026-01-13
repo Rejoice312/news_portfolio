@@ -132,6 +132,10 @@ main{
     padding: 0, 100px, 0, 10px;
 }
 
+footer a{
+    color: white;
+}
+
 /* =====================
    Responsive Adjustments
 ===================== */
