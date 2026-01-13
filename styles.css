@@ -12,7 +12,6 @@ body {
     background-color: #f4f6f8;
     color: #333;
     line-height: 1.6;
-    padding: 0, 10px, 0, 10px;
 }
 
 /* =====================
@@ -127,6 +126,10 @@ footer {
     float: right;
     margin: 50px;
     border-radius: 10px;
+}
+
+main{
+    padding: 0, 100px, 0, 10px;
 }
 
 /* =====================
