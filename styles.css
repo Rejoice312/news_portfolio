@@ -135,6 +135,10 @@ footer a{
     color: white;
 }
 
+.article-meta, .full-article h2{
+    text-align: center;
+}
+
 /* =====================
    Responsive Adjustments
 ===================== */
